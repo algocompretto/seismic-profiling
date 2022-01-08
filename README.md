@@ -1,4 +1,5 @@
 # Análise da Sísmica de Reflexão
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/algocompretto/seismic-profiling/HEAD)
 
 [Link do notebook](https://mybinder.org/v2/gh/algocompretto/seismic-profiling/3d70828bd60e781d861ffccec1c3a7845d5acdb9?urlpath=lab%2Ftree%2Fanalysis.ipynb)
 
